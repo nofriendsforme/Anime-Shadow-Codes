@@ -4,6 +4,8 @@
 
 Anime Shadow Codes is an engaging mobile game that combines elements of RPG and action gameplay set in a vibrant anime-inspired universe. Players are immersed in a world where they can summon powerful characters, known as Shadow Warriors, and harness their unique abilities to battle formidable enemies. With a focus on strategic gameplay, character development, and stunning visuals, Anime Shadow Codes appeals to both anime fans and gamers alike.
 
+>Donwload: [Anime Shadow Codes](https://codesrandom.com/anime-shadow-codes/)
+
 Game Overview
 Genre: Action RPG
 Platforms: iOS, Android
